@@ -1,4 +1,4 @@
-# 100ProgramsPractice
+# 100-Programs For Practice
 
 ### Day -1 
 
