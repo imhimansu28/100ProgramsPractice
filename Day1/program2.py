@@ -16,3 +16,5 @@ def factorial(x):
 
 x = int(input())
 print(factorial(x))
+
+

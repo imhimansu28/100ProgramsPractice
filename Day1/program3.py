@@ -1,3 +1,5 @@
+# Question-3
+
 """
 
 With a given integral number n, write a program to generate a dictionary that contains  
@@ -14,7 +16,7 @@ number = int(input("Enter number"))
 
 answer = {}
 
-for i in range(1, number + 1):
+for i in range(5,number + 1):
     
     answer[i] = i * i
     
