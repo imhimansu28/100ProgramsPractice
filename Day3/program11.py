@@ -19,7 +19,7 @@ def check(x):
     reversed(x)
     
     for i in x:
-        total += pw*(ord(i)-48)
+        total += pw*(ord(i)-48) # ord is us for return ASCII value 
         pw*=2
     return total % 5 
 data = input("Enter data in binary number : ").split(",")

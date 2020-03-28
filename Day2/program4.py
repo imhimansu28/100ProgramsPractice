@@ -18,3 +18,4 @@ mytuple = tuple(mylist)
 
 print("List : ", mylist)
 print("Tuple : ", mytuple)
+print({"mylistlen":len(mylist), 'myTuplelen':len(mytuple)})
