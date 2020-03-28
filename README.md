@@ -32,3 +32,9 @@
 * [Program-12](https://github.com/imhimansu28/100ProgramsPractice/blob/master/Day3/program12.py)
 
 * [Program-13](https://github.com/imhimansu28/100ProgramsPractice/blob/master/Day3/program13.py)
+
+### Day -4
+
+* [Program-14](https://github.com/imhimansu28/100ProgramsPractice/blob/master/Day4/program14.py)
+
+* [Program-15](https://github.com/imhimansu28/100ProgramsPractice/blob/master/Day4/program15.py)
